@@ -1,0 +1,225 @@
+{
+  "profile": {
+    "name": "Asif Mahmud",
+    "title": "Senior Machine Learning Engineer",
+    "avatar": "assets/img/asif.png",
+    "location": "Dhaka, Bangladesh",
+    "email": "asifmahmudcste@gmail.com",
+    "bio": "I am Asif Mahmud — a Senior Machine Learning Engineer and CTO at <a href=\"https://alphabytesai.com/\">Alphabytes AI</a>, where we deliver end-to-end AI solutions for businesses.",
+    "about": "With hands-on experience building production-grade ML systems — from NLP pipelines and LLM-powered chatbots to computer vision products — I specialize in turning complex AI research into real-world applications. I am also a Senior MLE at <a href=\"https://bettex.com/\">Bettex (HK) Limited</a>. Through <a href=\"https://alphabytesai.com/\">Alphabytes AI</a>, I am actively taking on AI consulting and development projects. Whether you need <b>LLM integration, NLP, Computer Vision, Agentic AI, or custom ML solutions</b> — we can help. I also maintain an active research profile with 4 publications in venues like ICLR and Scientific Reports (Nature).",
+    "publicationSummary": "",
+    "phdNote": "We are actively providing AI services! Reach out at asifmahmudcste@gmail.com or visit alphabytesai.com",
+    "socialLinks": [
+      { "icon": "fab fa-linkedin", "label": "LinkedIn", "url": "https://www.linkedin.com/in/asif-mahmud-am/" },
+      { "icon": "fab fa-github", "label": "GitHub", "url": "https://github.com/asif-mahmud-am" },
+      { "icon": "fas fa-graduation-cap", "label": "Google Scholar", "url": "https://scholar.google.com/citations?user=bW9xJqEAAAAJ&hl=en" },
+      { "icon": "fab fa-researchgate", "label": "ResearchGate", "url": "https://www.researchgate.net/profile/Asif-Mahmud-42" }
+    ],
+    "siteUrl": "https://asif-mahmud-am.github.io"
+  },
+  "news": [
+    {
+      "date": "Jan 2026",
+      "text": "Launched <b>Alphabytes AI</b> — my AI services company. Now actively providing AI consulting & development.",
+      "link": "https://alphabytesai.com/",
+      "linkText": "Alphabytes AI"
+    },
+    {
+      "date": "Jan 2026",
+      "text": "Our fashion AI solution Tryex is now <b>live</b>.",
+      "link": "https://tryex.ai/",
+      "linkText": "Tryex AI"
+    },
+    {
+      "date": "July 2025",
+      "text": "My conference paper got <b>published</b> in Springer from the conference MIET 2024.",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-96-2721-9_27",
+      "linkText": "Prompt-based Fine-tuning of Bangla Language Models for Sequence Classification"
+    },
+    {
+      "date": "December 2024",
+      "text": "My journal paper got <b>published</b> in Scientific Reports, Nature.",
+      "link": "https://www.nature.com/articles/s41598-024-75599-4",
+      "linkText": "Parameter-Efficient Fine-Tuning of Large Language Models using Semantic Knowledge Tuning"
+    },
+    {
+      "date": "Feb 2024",
+      "text": "My conference paper got <b>accepted</b> in ICLR tiny papers '24.",
+      "link": "https://arxiv.org/abs/2402.01643",
+      "linkText": "L-TUNING Synchronized Label Tuning for Prompt and Prefix in LLMs"
+    }
+    
+    
+    
+  ],
+  "research": {
+    "interests": [
+      "Natural Language Processing",
+      "Computer Vision",
+      "AI for Fashion",
+      "Agentic AI",
+      "Retrieval Augmented Generation",
+      "Efficient Fine-tuning of Large Language Models",
+      "LLMs in Healthcare",
+      "Computational Social Science",
+      "NLP applications for Low-resource Languages"
+    ],
+    "publications": [
+      {
+        "title": "An RNN based Approach to Predict Next Word in Bangla Language",
+        "titleUrl": "https://www.researchgate.net/publication/371486673_An_RNN_Based_Approach_to_Predict_Next_Word_in_Bangla_Language",
+        "authors": "<b>Asif Mahmud</b>, Md. Nazmul Hasan Rony, Deba Dip Bhowmik, Ratnadip Kuri* & A. R. M. Mahmudul Hasan Rana",
+        "venue": "International Conference on Machine Intelligence and Emerging Technologies (MIET 2022)",
+        "venueUrl": "https://confmiet.org/",
+        "type": "Conference",
+        "status": "published",
+        "codeUrl": "https://github.com/asif-mahmud-am/Next-Word-Prediction-Bangla",
+        "codeLabel": "Code & Dataset"
+      },
+      {
+        "title": "L-Tuning: Synchronized Label Tuning For Prompt And Prefix In LLMs",
+        "titleUrl": "https://openreview.net/pdf?id=zv3xpxqjjB",
+        "authors": "Md. Kowsher*, Md. Shohanur Islam Sobuj, <b>Asif Mahmud</b>, Nusrat Jahan Prottasha, Prakash Bhat",
+        "venue": "International Conference on Learning Representations, tiny papers, 2024 (ICLR 2024)",
+        "venueUrl": "https://iclr.cc/",
+        "type": "Conference",
+        "status": "published",
+        "codeUrl": "https://github.com/Kowsher/L-Tuning/tree/main",
+        "codeLabel": "Code"
+      },
+      {
+        "title": "Parameter-Efficient Fine-Tuning of Large Language Models using Semantic Knowledge Tuning",
+        "titleUrl": "https://www.nature.com/articles/s41598-024-75599-4",
+        "authors": "Md. Kowsher*, <b>Asif Mahmud</b>, Md. Shohanur Islam Sobuj, Nusrat Jahan Prottasha, Prakash Bhat, and Jia Xu",
+        "venue": "Scientific Reports, Nature Journal",
+        "venueUrl": null,
+        "type": "Journal",
+        "status": "published",
+        "codeUrl": "https://github.com/Kowsher/SKTuning",
+        "codeLabel": "Code"
+      },
+      {
+        "title": "Prompt-based Fine-tuning of Bangla Language Models for Sequence Classification",
+        "titleUrl": "https://link.springer.com/chapter/10.1007/978-981-96-2721-9_27",
+        "authors": "<b>Asif Mahmud*</b>, Md. Shariar Hossain, Md Rasel Meya, Didarul Islam Didar, Hasibul Islam, Puja Dhar, Poly Akter",
+        "venue": "MIET 2024",
+        "venueUrl": "https://confmiet.org/",
+        "type": "Conference",
+        "status": "published",
+        "codeUrl": null,
+        "codeLabel": null
+      }
+    ],
+    "footnote": "[* denotes corresponding author]"
+  },
+  "experience": {
+    "professional": [
+      {
+        "role": "Senior Machine Learning Engineer",
+        "company": "Bettex (HK) Limited",
+        "companyUrl": "https://bettex.com/",
+        "location": "Dhaka, Bangladesh",
+        "period": "May 2025 – Present",
+        "highlights": [
+          "Developed AI Fashion Solutions for<a href=\"https://tryex.ai/\">Tryex AI</a>."
+        ]
+      },
+      {
+        "role": "Machine Learning Engineer",
+        "company": "Polyfins Technology Inc.",
+        "companyUrl": "https://polyfins.com/",
+        "location": "Dallas, Texas",
+        "period": "April 2024 – March 2025",
+        "highlights": [
+          "Developed interactive skin disease detection Chatbot (deductive approach) <a href=\"https://tibot.ai/\">Tibot AI</a>.",
+          "Developed Jarvin Vision (License Plate Detector) and Jarvin Chatbot (Sales negotiator) <a href=\"https://smartdealership.ai/\">SmartDealership</a>."
+        ]
+      },
+      {
+        "role": "Junior Machine Learning Engineer",
+        "company": "Anchorblock Technology Limited",
+        "companyUrl": "https://anchorblock.ai/",
+        "location": "Dhaka, Bangladesh",
+        "period": "December 2022 – April 2024",
+        "highlights": [
+          "Developed Spam Detector Community Manager Bot <a href=\"https://montypy.ai/\">MontyPy</a>.",
+          "Developed Bengali Writing Guide platform <a href=\"https://banglabritti.com/\">BanglaBritti</a>."
+        ]
+      },
+      {
+        "role": "Machine Learning Intern",
+        "company": "Anchorblock Technology Limited",
+        "companyUrl": "https://anchorblock.ai/",
+        "location": "Dhaka, Bangladesh",
+        "period": "September 2022 – December 2022",
+        "highlights": []
+      }
+    ],
+    "teaching": [
+      {
+        "role": "Trainer",
+        "project": "EDGE-NSTU-IIT Digital skills Training",
+        "projectUrl": "https://edge.gov.bd/",
+        "course": "Basic Programming with Python",
+        "organizer": "ICT Division, Bangladesh"
+      }
+    ]
+  },
+  "education": [
+    {
+      "degree": "Bachelor of Science (B.Sc.) in Computer Science and Telecommunication Engineering",
+      "icon": "graduation-cap",
+      "institution": "Noakhali Science and Technology University (NSTU)",
+      "institutionUrl": "https://nstu.edu.bd/",
+      "location": "Dhaka, Bangladesh",
+      "gpa": "3.29 [on a scale of 4.0]",
+      "credits": "174.25 credits",
+      "thesis": {
+        "title": "An RNN based Approach to Predict Next Word in Bangla Language",
+        "paperUrl": "https://link.springer.com/chapter/10.1007/978-3-031-34619-4_43",
+        "supervisor": "Mr. Ratnadip Kuri",
+        "supervisorUrl": "https://www.nstu.edu.bd/faculty-member.php?faculty=ratnadip-kuri-yky939",
+        "supervisorTitle": "Assistant Professor"
+      },
+      "courseworks": [
+        "Mathematics (I-III)",
+        "Structured Programming Languages",
+        "Object Oriented Programming",
+        "Discrete Mathematics",
+        "Data Structures and Algorithms",
+        "Numerical Analysis",
+        "Operating System",
+        "Software Engineering",
+        "Artificial Intelligence and Neural Networks",
+        "Database Management System",
+        "Web Engineering",
+        "Computer Architecture",
+        "Introduction to Telecommunication, Advanced Telecommunications",
+        "Computer Graphics",
+        "Digital Image Processing"
+      ]
+    },
+    {
+      "degree": "Higher Secondary Certificate (H.S.C.) in Science",
+      "icon": "diploma",
+      "institution": "Feni Govt. College (FGC)",
+      "institutionUrl": "https://fgc.gov.bd/",
+      "location": "Feni, Chittagong, Bangladesh",
+      "gpa": "4.92 [on a scale of 5.0]",
+      "credits": null,
+      "thesis": null,
+      "courseworks": null
+    },
+    {
+      "degree": "Secondary School Certificate (S.S.C.) in Science",
+      "icon": "diploma",
+      "institution": "Ataturk Govt. Model High School (ATS)",
+      "institutionUrl": null,
+      "location": "Feni, Chittagong, Bangladesh",
+      "gpa": "5.0 [on a scale of 5.0]",
+      "credits": null,
+      "thesis": null,
+      "courseworks": null
+    }
+  ]
+}
